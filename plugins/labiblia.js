@@ -16,7 +16,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let username = conn.getName(who)
     let str = `
 *Hola ${username}, aqui tienes el menu +18*
-
+ •×KeVBoT×•
 *<MENU +18/>*
 - Usar bajo su responsabilidad 
 
