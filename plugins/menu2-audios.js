@@ -16,7 +16,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let username = conn.getName(who)
     let str = `
 *_ミ💖 Hola ${username} 💖彡_*
-
+    •×KeVBoT×•
 *<MENU DE AUDIOS/>*
 - Escribe las palabras/frases tal como estan, no hace falta poner ningun prefijo (#, ., *, etc) 
 
