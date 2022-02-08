@@ -23,7 +23,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let username = conn.getName(who)
     let str = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
-║═ *𝐓𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐤𝐞𝐫𝐬 - 𝐁𝐨𝐭*
+║═ *𝐓𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐤𝐞𝐫𝐬 - KeVBoT*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
@@ -34,6 +34,9 @@ let handler = async (m, { conn, usedPrefix }) => {
 ║➤ *Numero del Sub Bot oficial:* *wa.me/5219992095479*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
+
+Version KevBot 1.0]
+
 ┏━━━━━━━━━━━━━┓
 ┃ *<INFORMACIÓN|MENUS/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
@@ -317,7 +320,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┗━━━━━━━━━━━━━┛
 ╔═════════════╗
 ║
-╠ *𝐓𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐤𝐞𝐫𝐬 - 𝐁𝐨𝐭*
+╠ *𝐓𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐤𝐞𝐫𝐬 - KeVBoT*
 ║
 ╚═════════════╝
 `.trim()
