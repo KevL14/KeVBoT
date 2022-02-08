@@ -16,7 +16,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let username = conn.getName(who)
     let str = `
 *ミ💖 Hola ${username} 💖彡*
-
+    KeVBoT
 *<MENU SIMPLE/>*
 
 ° ඬ⃟👑 _${usedPrefix}Beet-Nodes_
